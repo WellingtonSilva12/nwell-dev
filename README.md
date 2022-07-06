@@ -2,7 +2,7 @@
 
 > ##### *Technologist in Systems Analysis and Development*
 
-> ##### *Focused in Full-Stack Web Development and UI Designer*
+> ##### *Focused in Full-Stack Web Development*
 
 ##
 

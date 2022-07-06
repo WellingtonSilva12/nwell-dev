@@ -1,4 +1,4 @@
-### **Hi! I am Wellington Silva** 😁🖥️
+### **Hi 👋🏼 I'm Wellington Silva** 😁🖥️
 
 > ##### *Technologist in Systems Analysis and Development*
 
@@ -25,7 +25,6 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-silva-227a31170/)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WellingtonSilva12)
-<!-- [![BEHANCE](https://aleen42.github.io/badges/src/behance.svg)]() -->
 
 
 
@@ -33,10 +32,7 @@
 
 
 
-<!-- [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]() -->
+
 
 
 

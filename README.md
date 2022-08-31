@@ -1,5 +1,7 @@
+
 <div align="center">
-### ***Olá, 👋🏼 Me chamo Wellington Silva*** 😁🖥️
+<h2> <i>Olá, 👋🏼 Me chamo Wellington Silva 😁🖥️</i> </h2>
+
 
 *Tecnólogo em Análise e Desenvolvimento de Sistemas* <br>
 *Focado em Desenvolvimento Web Full-Stack*
